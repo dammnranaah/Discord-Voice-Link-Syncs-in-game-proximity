@@ -1,0 +1,6 @@
+name: ServerTimePlugin 
+version: 1.0 
+main: com.devranaah.servertime.ServerTimePlugin 
+description: A simple plugin to show server time when clicking a clock. 
+author: YourName 
+api-version: 1.16 
